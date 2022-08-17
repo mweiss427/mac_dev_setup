@@ -20,9 +20,6 @@ TODO - adapt and automate for windows.
 Install python
 
 # License
-
-TODO - add tests
-
 See LICENSE for more information.
 
 https://github.com/yourname/github-link
