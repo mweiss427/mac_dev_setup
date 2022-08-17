@@ -1,0 +1,7 @@
+README.md
+mac_developer_setup
+setup.py
+mac_developer_setup.egg-info/PKG-INFO
+mac_developer_setup.egg-info/SOURCES.txt
+mac_developer_setup.egg-info/dependency_links.txt
+mac_developer_setup.egg-info/top_level.txt
