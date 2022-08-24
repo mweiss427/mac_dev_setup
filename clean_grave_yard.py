@@ -23,7 +23,7 @@ for file in filteredFiles:
     path = f"{dirname}{file}"
     days = helper.daysSinceLastUpdated(path)
 
-    if days > 30:
+    if days > 365:
         print(
             f"Removing {path} from device! Its been untouched for {days} days")
         if os.path.isfile(path):
